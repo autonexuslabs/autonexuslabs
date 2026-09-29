@@ -10,10 +10,31 @@ I run **[AutoNexus Labs](https://autonexuslabs.com)**, a one-person automation s
 
 ### Live samples
 
-Both run on invented businesses, so you can click around freely.
+All of them run on invented businesses, so you can click around freely.
 
 - [Home services demo](https://demo.autonexuslabs.com/hvac-sample): an AI front desk for a heating and cooling company
 - [Real estate demo](https://demo.autonexuslabs.com/sample-demo): an agent's listing assistant that answers after hours
+- [Owner dashboard](https://autonexuslabs.github.io/owner-dashboard-pwa/): an installable phone app for leads, replies and automation health
+- [Personalized landing pages](https://autonexuslabs.github.io/personalized-landing-pages/): one page per lead, generated from a spreadsheet
+
+### Open-source projects
+
+Each one is a small, tested, documented example of work I do for clients. The data is synthetic and the demos run offline.
+
+| | Project | What it shows |
+|---|---|---|
+| 🧲 | [business-lead-scraper](https://github.com/autonexuslabs/business-lead-scraper) | Google Places (official API) → dedupe → website enrichment (emails, chat widget, booking platform) → CSV |
+| 🎯 | [lead-scoring-engine](https://github.com/autonexuslabs/lead-scoring-engine) | Dedupe, exclude, gate and score leads from a JSON config, with a reason behind every point |
+| 🤖 | [ai-chat-widget](https://github.com/autonexuslabs/ai-chat-widget) | One-tag Claude chat for a business site: answers from your facts, books visits, captures leads |
+| ✍️ | [ai-reply-drafter](https://github.com/autonexuslabs/ai-reply-drafter) | Claude drafts customer email replies; a person reviews and approves each one |
+| 📧 | [email-sequence-sender](https://github.com/autonexuslabs/email-sequence-sender) | Sequences that stop on reply: classification, suppression, CAN-SPAM checks, recipient time zones |
+| 📩 | [gmail-reply-tracker](https://github.com/autonexuslabs/gmail-reply-tracker) | Incremental Gmail sync: find lead replies, star them, alert on Telegram |
+| 📊 | [sheets-crm-sync](https://github.com/autonexuslabs/sheets-crm-sync) | Google Sheets as a CRM without overwriting what your team typed |
+| 🚨 | [telegram-watchdog](https://github.com/autonexuslabs/telegram-watchdog) | Uptime and dead-man's-switch monitoring that alerts on change, not on every probe |
+| 🔗 | [personalized-landing-pages](https://github.com/autonexuslabs/personalized-landing-pages) | Static page per lead: stable slugs, expiry, XSS-safe templates, GitHub Pages deploy |
+| 📱 | [owner-dashboard-pwa](https://github.com/autonexuslabs/owner-dashboard-pwa) | React + Vite PWA: installable, offline, light and dark |
+| 🕵️ | [link-scanner-detector](https://github.com/autonexuslabs/link-scanner-detector) | Tell real email clicks from Safe Links / Proofpoint scanners |
+| 🔀 | [n8n-automation-workflows](https://github.com/autonexuslabs/n8n-automation-workflows) | Five importable n8n workflows with the Code-node logic unit-tested |
 
 ### Stack
 

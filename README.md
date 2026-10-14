@@ -1,5 +1,13 @@
 ### Hi, I'm Emil. I build AI automation for small businesses.
 
+[![Website](https://img.shields.io/badge/autonexuslabs.com-0A0A0A?style=for-the-badge&logo=googlechrome&logoColor=white)](https://autonexuslabs.com)
+[![Email](https://img.shields.io/badge/contact@autonexuslabs.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@autonexuslabs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emil-aliyev-autonexus)
+[![Octoprofile](https://img.shields.io/badge/Octoprofile-stats-24292F?style=for-the-badge&logo=github&logoColor=white)](https://octoprofile.vercel.app/user?id=autonexuslabs)
+
+![Location](https://img.shields.io/badge/Baku%2C%20Azerbaijan-remote%2C%20US%20hours-555?style=flat-square)
+![Status](https://img.shields.io/badge/open%20for-freelance%20work-2ea44f?style=flat-square)
+
 I run **[AutoNexus Labs](https://autonexuslabs.com)**, a one-person automation studio. Most of my work is the plumbing behind "the lead got an answer in a minute and nobody forgot to follow up":
 
 - **Scraping & data pipelines** that collect business data from the web, dedupe it and score it, then push it into a spreadsheet or CRM
@@ -38,9 +46,13 @@ Each one is a small, tested, documented example of work I do for clients. The da
 
 ### Stack
 
+[![Skills](https://skillicons.dev/icons?i=nodejs,js,py,react,vite,vercel,gcp,redis,docker,html,css,git&perline=12)](https://skillicons.dev)
+
 `Node.js` · `JavaScript` · `Python` · `React` · `Vite` · `Vercel` · `Google Cloud Run` · `Redis` · `n8n` · `Claude API` · `Gmail API` · `Telegram Bot API` · `Google Sheets / Drive`
 
 ### Credentials
+
+![n8n](https://img.shields.io/badge/n8n-Foundations%20101%20%C2%B7%20102%20%C2%B7%20103-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 - n8n Foundations: [N8N101](https://badges.n8n.io/d2be139c-0938-49cc-bb5f-c8b48d42b583) · [N8N102](https://badges.n8n.io/55f72afe-d9e2-4398-9a9f-2c457888d8e3) · [N8N103](https://badges.n8n.io/44df8277-2ede-4932-8ce0-82513143e062)
 
